@@ -1,0 +1,5 @@
+# Directory (plz write abs path)
+GIT_DIRECTORY=DEFAULT
+GIT_URL=git@github.com:user/yourproject.git
+GIT_NAME=yourname
+GIT_EMAIL=youremail@example.com
